@@ -14,7 +14,7 @@ Currently working on my Data Analyst path with R and Python.</p>
 #### Know/Using
 
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="28">](https://www.python.org/) 
-[<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt= "R logo" width="28">](https://www.rstudio.com/)
+[<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt= "R logo" width="38">](https://www.rstudio.com/)
 
 
 
