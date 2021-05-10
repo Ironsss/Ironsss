@@ -1,3 +1,6 @@
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+library(fontawesome)
+```
 
 ## Hello :pill: This is David :notebook: 🔭 :bar_chart:
 [![Gmail Badge](https://img.shields.io/badge/-davidalexis@comunidad.unam.mx-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:davidalexis@comunidad.unam.mx)](mailto:davidalexis@comunidad.unam.mx) 
@@ -13,7 +16,7 @@ Currently working on my Data Analyst path with R and Python.</p>
 
 #### Know/Using
 
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="28">](https://www.python.org/) 
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="28">](https://www.python.org/) `r fa("r-project", fill = "steelblue")`
 
 
 
