@@ -11,9 +11,10 @@ Currently working on my Data Analyst path with R and Python.</p>
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Ironsss&show_icons=true&include_all_commits=true)](https://github.com/Ironsss/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ironsss&layout=compact)](https://github.com/Ironsss/github-readme-stats)
 
-- Know/Using
-|  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="28">](https://www.python.org/) 
-|---|---|---|---|---|---|
+#### Know/Using
+
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="28">](https://www.python.org/) 
+
 
 
 <!--
