@@ -13,7 +13,7 @@ Currently working on my Data Analyst path with R and Python.</p>
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Ironsss&show_icons=true&include_all_commits=true)](https://github.com/Ironsss/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ironsss&layout=compact)](https://github.com/Ironsss/github-readme-stats)
 
-#### Know/Using
+
 
 
 
