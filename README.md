@@ -4,11 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-davidalexisge-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davidalexisge/)](https://www.linkedin.com/in/davidalexisge/) 
 [![Github Badge](https://img.shields.io/badge/-Ironsss-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Ironsss/)](https://www.github.com/Ironsss/) [![Twitter Badge](https://img.shields.io/badge/-@davidalexiss-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/@davidalexiss/)](https://www.twitter.com/@davidalexiss/) <p align='left'>Undergraduate student in Biomedical Physics looking for internships and opportunitys in physics applied in health science.
 
-  ### Data Badges
-<p align="center">
-  <a href="https://www.credly.com/badges/267bb300-f9dd-4332-869c-4e222ef60f44/public_url"><img src="https://images.credly.com/size/340x340/images/9610ae19-72a4-4873-86b5-355ad311cbba/Data_Analysis_final__1_.png"/> </a>
-<p align="center"> 
-    <a href="https://www.credly.com/badges/7f9390dc-ce5c-4b77-9cc0-7f0e59ca6763/public_url"><img src="https://images.credly.com/size/340x340/images/2ae0387f-d0aa-48dd-bea3-6fa7c5f7b4fe/Insignia_Machine-learning.png/> </a>
+
 
 </p> Currently working on my Data Analyst path with R and Python.</p>
 ## Some of my Github Stats
