@@ -7,6 +7,7 @@
 
 
 </p> Currently working on my Data Analyst path with R and Python.</p>
+
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Ironsss alt=Ironsss /> <img src="https://user-images.githubusercontent.com/10817626/67014544-482be200-f0f5-11e9-8e74-3dd575c8ad83.png" alt= "MATLAB logo" width="28">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="28">
@@ -17,10 +18,10 @@
 
 ## Data Badges
 
-<p float="center">
-  <a href="https://www.credly.com/badges/267bb300-f9dd-4332-869c-4e222ef60f44/public_url"><img src="https://images.credly.com/size/340x340/images/9610ae19-72a4-4873-86b5-355ad311cbba/Data_Analysis_final__1_.png" width="100"/> </a>
-   <a href="https://www.credly.com/badges/7f9390dc-ce5c-4b77-9cc0-7f0e59ca6763/public_url"><img src="https://images.credly.com/size/340x340/images/2ae0387f-d0aa-48dd-bea3-6fa7c5f7b4fe/Insignia_Machine-learning.png" width="100"/> </a>
-     <a href="https://www.credly.com/badges/267bb300-f9dd-4332-869c-4e222ef60f44/public_url"><img src="https://images.credly.com/size/340x340/images/9610ae19-72a4-4873-86b5-355ad311cbba/Data_Analysis_final__1_.png" width="100"/> </a>
+<p align="center">
+  <a href="https://www.credly.com/badges/267bb300-f9dd-4332-869c-4e222ef60f44/public_url"><img src="https://images.credly.com/size/340x340/images/9610ae19-72a4-4873-86b5-355ad311cbba/Data_Analysis_final__1_.png" width="150"/> </a>
+   <a href="https://www.credly.com/badges/7f9390dc-ce5c-4b77-9cc0-7f0e59ca6763/public_url"><img src="https://images.credly.com/size/340x340/images/2ae0387f-d0aa-48dd-bea3-6fa7c5f7b4fe/Insignia_Machine-learning.png" width="150"/> </a>
+     <a href="https://www.credly.com/badges/6575bf0d-fc5b-4b48-8018-f277deba0b8c/public_url"><img src="https://images.credly.com/size/340x340/images/c4f5b228-3ad4-47d9-b94c-acf4ea845ed9/Data_Analysis_Prototype__1_.png" width="150"/> </a>
 </p>
 
 
