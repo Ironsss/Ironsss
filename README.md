@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt= "R logo" width="38"> </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ironsss&layout=compact)](https://github.com/Ironsss/github-readme-stats)
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Ironsss&show_icons=true&include_all_commits=true)](https://github.com/Ironsss/github-readme-stats)
+
 
 
 
