@@ -8,7 +8,10 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="38">
 <img src="https://www.r-project.org/Rlogo.png" alt= "R logo" width="38"><img height="35" src="https://cdn.icon-icons.com/icons2/273/PNG/256/icon_sql_256_30046.png"><img height="35" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png"><img height="35" src="https://cdn.icon-icons.com/icons2/2667/PNG/512/folder_latex_tex_icon_161289.png"><img height="35" src="https://cdn.icon-icons.com/icons2/70/PNG/512/ubuntu_14143.png"></p>Undergraduate student in Biomedical Physics looking for internships and opportunitys in physics applied in health science and data manipulation in any field.
 
-</p> Currently working on my Data Analyst path with R and Python.</p>
+</p> Currently working on my Data scientist path with R and Python.</p>
+
+</p> Working on my Data engineer path with Azure, AWS and Google Cloud.</p>
+
 
 ## Data Badges
 
