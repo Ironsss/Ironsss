@@ -10,7 +10,7 @@
 
 </p> Currently working on my Data scientist path with R and Python.</p>
 
-</p> Working on my Data engineer path with Azure, AWS and Google Cloud. (_Time to Market_)</p>
+</p> Working on my Data engineer path with Azure, AWS and Google Cloud. (Time to Market)</p>
 
 
 ## Data Badges
