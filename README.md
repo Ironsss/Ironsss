@@ -1,6 +1,5 @@
 
 ## Hello :pill: This is David :pill:
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hello+there,+I+am+David;+Welcome+to+My+Profile!;Machine+learning+learner)](https://git.io/typing-svg)
 
 [![Gmail Badge](https://img.shields.io/badge/-davidalexis@comunidad.unam.mx-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:davidalexis@comunidad.unam.mx)](mailto:davidalexis@comunidad.unam.mx) 
 [![Linkedin Badge](https://img.shields.io/badge/-davidalexisge-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davidalexisge/)](https://www.linkedin.com/in/davidalexisge/) 
@@ -9,6 +8,8 @@
 <p align=center> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt= "MATLAB logo" width="38">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="38">
 <img src="https://www.r-project.org/Rlogo.png" alt= "R logo" width="38"><img height="35" src="https://cdn.icon-icons.com/icons2/273/PNG/256/icon_sql_256_30046.png"><img height="35" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png"><img height="35" src="https://cdn.icon-icons.com/icons2/2667/PNG/512/folder_latex_tex_icon_161289.png"><img height="35" src="https://cdn.icon-icons.com/icons2/70/PNG/512/ubuntu_14143.png"></p>Undergraduate student in Biomedical Physics looking for internships and opportunities in physics applied in health science and data manipulation in any field.
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hello+there,+I+am+David;+Welcome+to+My+Profile!;Machine+learning+learner)](https://git.io/typing-svg)
 
 </p> Currently working on my Data scientist path with R and Python.</p>
 
