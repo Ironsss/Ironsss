@@ -1,5 +1,7 @@
 
 ## Hello :pill: This is David :pill:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hello+there+:pill:,+I+am+David;+Welcome+to+My+Profile!;Machine+learning+learner)](https://git.io/typing-svg)
+
 [![Gmail Badge](https://img.shields.io/badge/-davidalexis@comunidad.unam.mx-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:davidalexis@comunidad.unam.mx)](mailto:davidalexis@comunidad.unam.mx) 
 [![Linkedin Badge](https://img.shields.io/badge/-davidalexisge-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davidalexisge/)](https://www.linkedin.com/in/davidalexisge/) 
 [![Github Badge](https://img.shields.io/badge/-Ironsss-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Ironsss/)](https://www.github.com/Ironsss/) [![Twitter Badge](https://img.shields.io/badge/-@davidalexiss-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/@davidalexiss/)](https://www.twitter.com/@davidalexiss/)
