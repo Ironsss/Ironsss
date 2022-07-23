@@ -9,7 +9,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="38">
 <img src="https://www.r-project.org/Rlogo.png" alt= "R logo" width="38"><img height="35" src="https://cdn.icon-icons.com/icons2/273/PNG/256/icon_sql_256_30046.png"><img height="35" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png"><img height="35" src="https://cdn.icon-icons.com/icons2/2667/PNG/512/folder_latex_tex_icon_161289.png"><img height="35" src="https://cdn.icon-icons.com/icons2/70/PNG/512/ubuntu_14143.png"></p>Undergraduate student in Biomedical Physics looking for internships and opportunities in physics applied in health science and data manipulation in any field.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hello+there,+I+am+David;+Welcome+to+My+Profile!;Machine+learning+learner)](https://git.io/typing-svg)  <a href="https://www.researchgate.net/profile/David-Alexis-Garcia-Espinosa-2"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" width="60"/> </a> <a href="https://www.cloudskillsboost.google/public_profiles/25cf9fa9-1389-4d7d-a709-017a36361d01"><img src="https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png?hl=es" width="60"/> </a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hello+there,+I+am+David;+Welcome+to+My+Profile!;Machine+learning+learner)](https://git.io/typing-svg)  <a href="https://www.researchgate.net/profile/David-Alexis-Garcia-Espinosa-2"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" width="60"/> </a> 
 
 </p> Currently working on my Data scientist path with R and Python.</p>
 
@@ -19,6 +19,7 @@
 ## Data Badges
 
 <p align="center">
+  <a href="https://www.cloudskillsboost.google/public_profiles/25cf9fa9-1389-4d7d-a709-017a36361d01"><img src="https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png?hl=es" width="60"/> </a>
   <a href="https://www.credly.com/badges/267bb300-f9dd-4332-869c-4e222ef60f44/public_url"><img src="https://images.credly.com/size/340x340/images/9610ae19-72a4-4873-86b5-355ad311cbba/Data_Analysis_final__1_.png" width="140"/> </a>
    <a href="https://www.credly.com/badges/7f9390dc-ce5c-4b77-9cc0-7f0e59ca6763/public_url"><img src="https://images.credly.com/size/340x340/images/2ae0387f-d0aa-48dd-bea3-6fa7c5f7b4fe/Insignia_Machine-learning.png" width="140"/> </a>
      <a href="https://www.credly.com/badges/6575bf0d-fc5b-4b48-8018-f277deba0b8c/public_url"><img src="https://images.credly.com/size/340x340/images/c4f5b228-3ad4-47d9-b94c-acf4ea845ed9/Data_Analysis_Prototype__1_.png" width="140"/> </a>
