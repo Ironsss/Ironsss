@@ -11,7 +11,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hello+there,+I+am+David;+Welcome+to+My+Profile!;Machine+learning+learner)](https://git.io/typing-svg)  <a href="https://www.researchgate.net/profile/David-Alexis-Garcia-Espinosa-2"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" width="60"/> </a> 
 
-</p> Currently working on my Data scientist path with R and Python.</p>
+</p> Currently working on my Data scientist path with R, SAS & Python.</p>
 
 </p> Working on my Data engineer path with Azure, AWS and Google Cloud. (Time to Market)</p>
 
