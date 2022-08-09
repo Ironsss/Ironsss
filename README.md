@@ -17,6 +17,7 @@
 
 
 ## Data Badges
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hello+there,+I+am+David;+Welcome+to+My+Profile!;Machine+learning+learner)](https://git.io/typing-svg)  <a href="https://www.researchgate.net/profile/David-Alexis-Garcia-Espinosa-2"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" width="60"/> </a> 
 
 <p align="center">
   <a href="https://www.cloudskillsboost.google/public_profiles/25cf9fa9-1389-4d7d-a709-017a36361d01"><img src="https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png?hl=es" width="250"/> </a>
