@@ -20,7 +20,7 @@
 
 <p align="center">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Click+on+badges+to+see+more;Machine+learning+path)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF9&center=true&vCenter=true&width=600&lines=Click+on+badges+to+see+more;Machine+learning+path)](https://git.io/typing-svg)
   
   <a href="https://www.cloudskillsboost.google/public_profiles/25cf9fa9-1389-4d7d-a709-017a36361d01"><img src="https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png?hl=es" width="250"/> </a>
   <a href="https://www.credly.com/badges/267bb300-f9dd-4332-869c-4e222ef60f44/public_url"><img src="https://images.credly.com/size/340x340/images/9610ae19-72a4-4873-86b5-355ad311cbba/Data_Analysis_final__1_.png" width="140"/> </a>
