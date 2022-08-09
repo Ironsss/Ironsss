@@ -15,12 +15,11 @@
 
 </p> Working on my Data engineer path with Azure, AWS and Google Cloud. (Better Time to Market)</p>
 
-<p align="center">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=#E680F7FF&center=true&vCenter=true&width=600&lines=Click+on+badges+to+see+more;Machine+learning+path)](https://git.io/typing-svg)
-</p>
 
 ## Data Badges
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=#E680F7FF&center=true&vCenter=true&width=600&lines=Click+on+badges+to+see+more;Machine+learning+path)](https://git.io/typing-svg)
 
 <p align="center">
   
