@@ -7,12 +7,14 @@
   
 <p align=center> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt= "MATLAB logo" width="38">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="38">
-<img src="https://www.r-project.org/Rlogo.png" alt= "R logo" width="38"><img height="35" src="https://cdn.icon-icons.com/icons2/273/PNG/256/icon_sql_256_30046.png"><img height="35" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png"><img height="35" src="https://cdn.icon-icons.com/icons2/2667/PNG/512/folder_latex_tex_icon_161289.png"><img height="35" src="https://cdn.icon-icons.com/icons2/70/PNG/512/ubuntu_14143.png"></p> Looking for opportunities in physics applied in health science and data manipulation in any field.
+<img src="https://www.r-project.org/Rlogo.png" alt= "R logo" width="38"><img height="35" src="https://cdn.icon-icons.com/icons2/273/PNG/256/icon_sql_256_30046.png"><img height="35" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png"><img height="35" src="https://cdn.icon-icons.com/icons2/2667/PNG/512/folder_latex_tex_icon_161289.png"><img height="35" src="https://cdn.icon-icons.com/icons2/70/PNG/512/ubuntu_14143.png"></p> 
+
+ 
+ </p> I’m an early career professional looking for my next ambitious position. I studied Biomedical Physics where I learned how to extract features from clinical images, apply statistical models to unstructured data and how to implement machine learning models to predict those features in unlabeled data. In my actual position I developed and monitored attrition ML models and Natural Language processing solutions to estimate the affinity between purchases made by customers using many tools like Python and SQL. </p>
+
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?width=700&lines=Hello+there,+I+am+David;+Welcome+to+My+Profile!;Machine+learning+learner)](https://git.io/typing-svg) <a href="https://www.researchgate.net/profile/David-Alexis-Garcia-Espinosa-2"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" width="60"/> </a> 
  
- 
- </p> I’m an early career professional looking for my next ambitious position. I studied Biomedical Physics where I learned how to extract features from clinical images, apply statistical models to unstructured data and how to implement machine learning models to predict those features in unlabeled data. In my actual position I developed and monitored attrition ML models and Natural Language processing solutions to estimate the affinity between purchases made by customers using many tools like Python and SQL. </p>
 
 </p> Currently working on my Data scientist path with R, SAS & Python.</p>
 
