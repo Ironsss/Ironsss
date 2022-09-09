@@ -13,7 +13,7 @@
  </p> I’m an early career professional looking for my next ambitious position. I studied Biomedical Physics where I learned how to extract features from clinical images, apply statistical models to unstructured data and how to implement machine learning models to predict those features in unlabeled data. In my actual position I developed and monitored attrition ML models and Natural Language processing solutions to estimate the affinity between purchases made by customers using many tools like Python and SQL. </p>
 
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?width=700&lines=Hello+there,+I+am+David;+Welcome+to+My+Profile!;Machine+learning+learner)](https://git.io/typing-svg) <a href="https://www.researchgate.net/profile/David-Alexis-Garcia-Espinosa-2"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" width="60"/> </a> 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?width=700&lines=Hello+there,+I+am+David;+Welcome+to+My+Profile!;Machine+learning+learner)](https://git.io/typing-svg) <a href="https://www.researchgate.net/profile/David-Alexis-Garcia-Espinosa-2"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" width="90"/> </a> 
  
 
 </p> Currently working on my Data scientist path with R, SAS & Python.</p>
