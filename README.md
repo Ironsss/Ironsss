@@ -37,9 +37,7 @@
   <a href="https://www.credly.com/badges/7cf3dda0-c781-41a8-a68d-a8625605617a/public_url"><img src="https://images.credly.com/size/340x340/images/c5d44d75-9370-43fa-92a6-63e48bb6564f/62056_badges_EducationTraining_Learn_Programming.png" width="110"/> </a>
 </p>
 
-## Some of my Github Stats
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Ironsss&show_icons=true&include_all_commits=true)](https://github.com/Ironsss/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ironsss&layout=compact)](https://github.com/Ironsss/github-readme-stats)
+
 
 
 
