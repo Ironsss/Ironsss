@@ -39,7 +39,9 @@
 ## Courses & Presentations
 
 [Exceltic: Inteligencia Artificial en la realidad empresarial: Casos de uso](https://webinar.exceltic.com/ia-empresarial-casouso)
+
 [UNAM: Teaching Assitant](https://web.fciencias.unam.mx/directorio/93391)
+
 [MisProfesores Evaluation](https://www.misprofesores.com/profesores/David-Alexis-Garcia-Espinosa_138010)
 
 
