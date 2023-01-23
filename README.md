@@ -23,8 +23,6 @@
 
 
 ## Data Badges
-https://webinar.exceltic.com/ia-empresarial-casouso
-
 
 <p align="center">
   
@@ -38,9 +36,9 @@ https://webinar.exceltic.com/ia-empresarial-casouso
 </p>
 
 
+## Courses & Presentations
 
-
-
+[Exceltic: ](https://webinar.exceltic.com/ia-empresarial-casouso)
 
 
 
