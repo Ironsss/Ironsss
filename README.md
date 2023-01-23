@@ -23,7 +23,7 @@
 
 
 ## Data Badges
-
+https://webinar.exceltic.com/ia-empresarial-casouso
 
 
 <p align="center">
