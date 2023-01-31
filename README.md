@@ -13,7 +13,7 @@
  </p> I’m an early career professional working as a Solution Engineer @H2O.ai . I studied Biomedical Physics where I learned how to extract features from clinical images, apply statistical models to unstructured data and how to implement machine learning models to predict those features in unlabeled data. In my previous position I developed and monitored attrition ML models and Natural Language processing solutions to estimate the affinity between purchases made by customers using many tools like Python and SQL. </p>
 
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?width=700&lines=Hello+there,+I+am+David;+Welcome+to+My+Profile!;Machine+learning+learner)](https://git.io/typing-svg) <a href="https://www.researchgate.net/profile/David-Alexis-Garcia-Espinosa-2"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" width="90"/> </a> 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?width=700&lines=Hello+there,+I+am+David;+Welcome+to+My+Profile!;Machine+learning+learner)](https://git.io/typing-svg) <a href="https://www.researchgate.net/profile/David-Alexis-Garcia-Espinosa-2"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" width="140"/> </a> 
  
 
 </p> Currently working on my Data scientist path with R, SAS & Python.</p>
@@ -28,7 +28,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?width=700&lines=To+see+more+click;Click+on+badges+:)](https://git.io/typing-svg)
   <a href="https://www.cloudskillsboost.google/public_profiles/25cf9fa9-1389-4d7d-a709-017a36361d01"><img src="https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png?hl=es" width="160"/> </a>
-       <a href="https://trailblazer.me/id/ironsss"><img src="https://brandslogos.com/wp-content/uploads/images/large/salesforce-logo.png" width="120"/> </a>
+       <a href="https://trailblazer.me/id/ironsss"><img src="https://brandslogos.com/wp-content/uploads/images/large/salesforce-logo.png" width="140"/> </a>
   <a href="https://www.credly.com/badges/6575bf0d-fc5b-4b48-8018-f277deba0b8c/public_url"><img src="https://images.credly.com/size/680x680/images/c4f5b228-3ad4-47d9-b94c-acf4ea845ed9/Data_Analysis_Prototype__1_.png" width="130"/> </a>
    <a href="https://www.credly.com/badges/7f9390dc-ce5c-4b77-9cc0-7f0e59ca6763/public_url"><img src="https://images.credly.com/size/340x340/images/2ae0387f-d0aa-48dd-bea3-6fa7c5f7b4fe/Insignia_Machine-learning.png" width="125"/> </a>
      <a href="https://www.credly.com/badges/267bb300-f9dd-4332-869c-4e222ef60f44"><img src="https://images.credly.com/size/680x680/images/9610ae19-72a4-4873-86b5-355ad311cbba/Data_Analysis_final__1_.png" width="130"/> </a>
