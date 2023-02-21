@@ -40,7 +40,7 @@
 
 ## Courses & Presentations
 
-[Exceltic: Inteligencia Artificial en la realidad empresarial: Casos de uso](https://webinar.exceltic.com/ia-empresarial-casouso)
+[Exceltic: Inteligencia Artificial en la realidad empresarial: Casos de uso](https://www.linkedin.com/events/inteligenciaartificialenlareali7013798963493408768/about/)
 
 [UNAM: Teaching Assitant](https://www.fciencias.unam.mx/directorio/93391)
 
