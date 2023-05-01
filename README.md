@@ -39,7 +39,7 @@
 ## Financial
 
 <p align="center">
-  <a href="https://www.cloudskillsboost.google/public_profiles/25cf9fa9-1389-4d7d-a709-017a36361d01"><img src="https://www.ipade.mx/wp-content/uploads/2020/08/logo_ipade_02.png" width="160"/> </a>
+  <a href="https://www.credential.net/7695d00f-e7de-49a5-8357-4d32393caf79?record_view=true"><img src="https://www.ipade.mx/wp-content/uploads/2020/08/logo_ipade_02.png" width="160"/> </a>
  </p>
 
 
