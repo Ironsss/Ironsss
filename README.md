@@ -22,7 +22,7 @@
 
 
 
-## Data Badges
+## _Data Badges_
 
 <p align="center">
   
@@ -36,7 +36,8 @@
 "><img src="https://images.credly.com/size/340x340/images/c5d44d75-9370-43fa-92a6-63e48bb6564f/62056_badges_EducationTraining_Learn_Programming.png" width="110"/> </a>
 </p>
 
-## Financial
+## _Finance_
+
 
 <p align="center">
   <a href="https://www.credential.net/7695d00f-e7de-49a5-8357-4d32393caf79?record_view=true"><img src="https://www.ipade.mx/wp-content/uploads/2020/08/logo_ipade_02.png" width="160"/> </a>
