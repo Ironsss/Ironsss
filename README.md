@@ -48,7 +48,7 @@
 
 
 
-## Courses & Presentations
+## _Courses & Presentations_
 
 [Exceltic: Inteligencia Artificial en la realidad empresarial: Casos de uso](https://www.linkedin.com/events/inteligenciaartificialenlareali7013798963493408768/about/)
 
