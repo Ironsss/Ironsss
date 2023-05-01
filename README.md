@@ -10,7 +10,18 @@
 <img src="https://www.r-project.org/Rlogo.png" alt= "R logo" width="38"><img height="35" src="https://cdn.icon-icons.com/icons2/273/PNG/256/icon_sql_256_30046.png"><img height="35" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png"><img height="35" src="https://cdn.icon-icons.com/icons2/2667/PNG/512/folder_latex_tex_icon_161289.png"><img height="35" src="https://cdn.icon-icons.com/icons2/70/PNG/512/ubuntu_14143.png"></p> 
 
  
- </p> I’m an early career professional working as a Solution Engineer @H2O.ai . I studied Biomedical Physics where I learned how to extract features from clinical images, apply statistical models to unstructured data and how to implement machine learning models to predict those features in unlabeled data. In my previous position I developed and monitored attrition ML models and Natural Language processing solutions to estimate the affinity between purchases made by customers using many tools like Python and SQL. </p>
+ </p> 
+ 
+ ### Professional Summary
+As an early career data scientist, I have a solid foundation in feature extraction from clinical images, statistical modeling on unstructured data, and machine learning applications to predict features in unlabeled data. My expertise lies in analyzing complex datasets, detecting trends, and delivering actionable insights to stakeholders. I am motivated to leverage my diverse skillset to tackle new challenges and grow professionally.
+
+### Skills
+* Data analysis and interpretation
+* Feature extraction from clinical images and general images.
+* Statistical modeling on unstructured data
+* Machine learning and predictive modeling
+* Data visualization and communication
+* Collaborative problem-solving </p>
 
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?width=700&lines=Hello+there,+I+am+David;+Welcome+to+My+Profile!;Machine+learning+learner)](https://git.io/typing-svg) <a href="https://www.researchgate.net/profile/David-Alexis-Garcia-Espinosa-2"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" width="140"/> </a> 
