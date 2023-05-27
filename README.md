@@ -51,6 +51,8 @@ As an early career data scientist, I have a solid foundation in feature extracti
 
 
 <p align="center">
+  <a href="https://www.credly.com/badges/267bb300-f9dd-4332-869c-4e222ef60f44/public_url
+"><img src="https://images.credly.com/size/340x340/images/c5d44d75-9370-43fa-92a6-63e48bb6564f/62056_badges_EducationTraining_Learn_Programming.png" width="110"/> </a>
   <a href="https://www.credential.net/7695d00f-e7de-49a5-8357-4d32393caf79?record_view=true#gs.wl57gl"><img src="https://www.ipade.mx/wp-content/uploads/2020/08/logo_ipade_02.png" width="200"/> </a>
  </p>
 
