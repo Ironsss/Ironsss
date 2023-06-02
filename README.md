@@ -62,6 +62,8 @@ As an early career data scientist, I have a solid foundation in feature extracti
 
 ## _Courses & Presentations_
 
+CANACINTRA: Machine Learning Aplicado a la industria automotriz.
+
 [Exceltic: Inteligencia Artificial en la realidad empresarial: Casos de uso](https://www.linkedin.com/events/inteligenciaartificialenlareali7013798963493408768/about/)
 
 [UNAM: Teaching Assitant](https://www.fciencias.unam.mx/directorio/93391)
