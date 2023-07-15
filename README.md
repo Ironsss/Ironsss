@@ -62,11 +62,11 @@ As an early career data scientist, I have a solid foundation in feature extracti
 
 ## _Courses & Presentations_
 
-[ENTIX 2023, México: Machine Learning aplicado a la industria actual](https://www.entix.mx/david-garcia)
+[ENTIX 2023, México: Machine Learning Aplicado a la industria actual.](https://www.entix.mx/david-garcia)
 
 [CANACINTRA: Machine Learning Aplicado a la industria automotriz.](https://www.instagram.com/p/CtAIvECPFeH/?igshid=MTc4MmM1YmI2Ng%3D%3D)
 
-[Exceltic: Inteligencia Artificial en la realidad empresarial: Casos de uso](https://www.linkedin.com/events/inteligenciaartificialenlareali7013798963493408768/about/)
+[Exceltic: Inteligencia Artificial en la realidad empresarial: Casos de uso.](https://www.linkedin.com/events/inteligenciaartificialenlareali7013798963493408768/about/)
 
 [UNAM: Teaching Assitant](https://www.fciencias.unam.mx/directorio/93391)
 
