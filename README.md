@@ -81,6 +81,10 @@ As an early career data scientist, I have a solid foundation in feature extracti
 <!--
 **Ironsss/Ironsss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+David García es Sales Engineer en H2O.ai con más de 6 años de experiencia en proyectos de investigación. Es egresado de la carrera de Física Biomédica de la facultad de ciencias de la UNAM y ha construido una sólida carrera como científico de datos, complementando su formación con diversos diplomados, certificaciones y cursos. En la actualidad, está ampliando sus habilidades en el ámbito financiero a través de programas educativos en instituciones como el Tecnológico de Monterrey y el IPADE.
+
+
+
 ## Hey 👋, 
 [![Linkedin Badge](https://img.shields.io/badge/-davidalexisg-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davidalexisg/)](https://www.linkedin.com/in/davidalexisg/) 
 Here are some ideas to get you started:
