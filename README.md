@@ -68,7 +68,8 @@ As an early career data scientist, I have a solid foundation in feature extracti
 
 [Exceltic: Inteligencia Artificial en la realidad empresarial: Casos de uso.](https://www.linkedin.com/events/inteligenciaartificialenlareali7013798963493408768/about/)
 
-[UNAM: Teaching Assitant](https://www.fciencias.unam.mx/directorio/93391)
+[UNAM: Teaching Assitant](https://web.fciencias.unam.mx/directorio/grupos/93391)
+
 
 [MisProfesores Evaluation](https://www.misprofesores.com/profesores/David-Alexis-Garcia-Espinosa_138010)
 
@@ -88,6 +89,8 @@ David García es Sales Engineer en H2O.ai con más de 6 años de experiencia en 
 ## Hey 👋, 
 [![Linkedin Badge](https://img.shields.io/badge/-davidalexisg-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davidalexisg/)](https://www.linkedin.com/in/davidalexisg/) 
 Here are some ideas to get you started:
+
+[UNAM: Teaching Assitant](https://www.fciencias.unam.mx/directorio/93391)
 
 <p align="right"> 
     <a href="https://www.credly.com/badges/7f9390dc-ce5c-4b77-9cc0-7f0e59ca6763/public_url"><img src="https://images.credly.com/size/340x340/images/2ae0387f-d0aa-48dd-bea3-6fa7c5f7b4fe/Insignia_Machine-learning.png"/> </a>
