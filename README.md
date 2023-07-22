@@ -68,7 +68,7 @@ As an early career data scientist, I have a solid foundation in feature extracti
 
 [Exceltic: Inteligencia Artificial en la realidad empresarial: Casos de uso.](https://www.linkedin.com/events/inteligenciaartificialenlareali7013798963493408768/about/)
 
-[UNAM: Teaching Assitant](https://www.fciencias.unam.mx/directorio/grupos/93391)
+[UNAM: Teaching Assitant| Linear algebra,Biostatistics,Mathematics for Biologyst](https://www.fciencias.unam.mx/directorio/93391)
 
 
 [MisProfesores Evaluation](https://www.misprofesores.com/profesores/David-Alexis-Garcia-Espinosa_138010)
