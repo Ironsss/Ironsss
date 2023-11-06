@@ -55,8 +55,8 @@ As an early career data scientist, I have a solid foundation in feature extracti
 <p align="center">
   <a href="https://www.credential.net/7695d00f-e7de-49a5-8357-4d32393caf79?record_view=true#gs.wl57gl
 "><img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Escudo_IPADE.png" width="160"/> </a>
-  <a href="https://www.credential.net/7695d00f-e7de-49a5-8357-4d32393caf79?record_view=true#gs.wl57gl
-"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Escudo_IPADE.png" width="160"/> </a>
+  <a href="https://www.credential.net/a9322706-3cdf-4538-a915-7384cd93d7a3
+"><img src="https://javier.rodriguez.org.mx/itesm/2014/tecnologico-de-monterrey-blue.png" width="160"/> </a>
  </p>
 
 
