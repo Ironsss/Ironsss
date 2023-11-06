@@ -33,6 +33,7 @@ As an early career data scientist, I have a solid foundation in feature extracti
 
 </p> Working on my Data engineer path with Azure, AWS and Google Cloud. (Better Time to Market)</p>
 
+Pursuing a Master's degree in Artificial Intelligence (MNA-V ITESM). My goal is to deepen my expertise, engage in impactful research, and contribute to responsible AI development. I aspire to bridge the gap between theory and practice, making a positive impact on society.
 
 
 ## _Data Badges_
