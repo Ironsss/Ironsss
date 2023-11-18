@@ -7,7 +7,7 @@
   
 <p align=center> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt= "MATLAB logo" width="38">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="38">
-<img src="https://www.r-project.org/Rlogo.png" alt= "R logo" width="38"><img height="35" src="https://cdn.icon-icons.com/icons2/273/PNG/256/icon_sql_256_30046.png"><img height="35" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png"><img height="35" src="https://cdn.icon-icons.com/icons2/2667/PNG/512/folder_latex_tex_icon_161289.png"><img height="35" src="https://cdn.icon-icons.com/icons2/70/PNG/512/ubuntu_14143.png"></p> 
+<img src="https://www.r-project.org/Rlogo.png" alt= "R logo" width="38"><img height="35" src="https://cdn.icon-icons.com/icons2/273/PNG/256/icon_sql_256_30046.png"><img height="35" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png"><img height="35" src="https://cdn.icon-icons.com/icons2/2667/PNG/512/folder_latex_tex_icon_161289.png"><img height="35" src="https://cdn.icon-icons.com/icons2/70/PNG/512/ubuntu_14143.png"><img height="35" src="https://h2o.ai/content/experience-fragments/h2o/us/en/site/header/master/_jcr_content/root/container/header_copy/logo.coreimg.svg/1700170415898/h2o-logo.svg"></p> 
 
  
  </p> 
