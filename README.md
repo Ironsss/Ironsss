@@ -76,6 +76,8 @@ Pursuing a Master's degree in Artificial Intelligence (MNA-V ITESM). My goal is 
 
 [H2O.ai: Impulsa tu Negocio al Siguiente Nivel: El Poder del Análisis Predictivo y las Soluciones Innovadoras](https://h2o.ai/events/webinar/impulsa-tu-negocio-al-siguiente-nivel-a10/#linkedin)
 
+[CDAO Apex 2024-03 Commercial Participant](https://cdaoapex-mx.coriniumintelligence.com/home#sponsors)
+
 [MisProfesores Evaluation](https://www.misprofesores.com/profesores/David-Alexis-Garcia-Espinosa_138010)
 
 
