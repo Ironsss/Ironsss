@@ -78,6 +78,8 @@ Pursuing a Master's degree in Artificial Intelligence (MNA-V ITESM). My goal is 
 
 [CDAO Apex 2024-03 Commercial Participant](https://cdaoapex-mx.coriniumintelligence.com/home#sponsors)
 
+[Innovando junto a Red Hat y H2O.ai](https://www.linkedin.com/posts/transadvancedtech_trans-red-hat-h2oai-activity-7219704809329704960-ylA3?utm_source=share&utm_medium=member_desktop)
+
 [MisProfesores Evaluation](https://www.misprofesores.com/profesores/David-Alexis-Garcia-Espinosa_138010)
 
 
