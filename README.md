@@ -13,7 +13,11 @@
  </p> 
  
  ### Professional Summary
-As an early career data scientist, I have a solid foundation in feature extraction from clinical images, statistical modeling on unstructured data, and machine learning applications to predict features in unlabeled data. My expertise lies in analyzing complex datasets, detecting trends, and delivering actionable insights to stakeholders. I am motivated to leverage my diverse skillset to tackle new challenges and grow professionally.
+In my previous roles, I analyzed complex datasets to identify trends and provided actionable insights to stakeholders. This helped optimize processes and improve decision making. I am skilled in delivering results that drive business value, focusing on return on investment (ROI) and developing minimum viable products (MVPs) that make a difference in the value chain.
+
+I am excited to bring my diverse skills to new challenges, aiming to reduce time to market and increase efficiency. I am committed to professional growth and contributing to innovative solutions.
+
+As an early career data scientist, I have a strong background in extracting features from images and applying statistical models to unstructured data. I've successfully implemented machine learning models to predict features in labeled/unlabeled data, which enhances business decisions.
 
 ### Skills
 * Data analysis and interpretation
