@@ -84,6 +84,8 @@ Pursuing a Master's degree in Artificial Intelligence (MNA-V ITESM). My goal is 
 
 [Innovando junto a Red Hat y H2O.ai](https://www.linkedin.com/posts/transadvancedtech_trans-red-hat-h2oai-activity-7219704809329704960-ylA3?utm_source=share&utm_medium=member_desktop)
 
+[Blog: Transformando Empresas Latinoamericanas con Inteligencia Artificial: Estrategias y Perspectivas](https://h2o.ai/blog/2024/Transformando-Empresas-Latinoamericanas-con-Inteligencia-Artificial--Estrategias-y-Perspectivas/)
+
 [MisProfesores Evaluation](https://www.misprofesores.com/profesores/David-Alexis-Garcia-Espinosa_138010)
 
 
