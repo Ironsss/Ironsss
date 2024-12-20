@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/e846cbf2-b845-4def-8ec5-37124343579a)
 ## ¡Hello!  :pill: :pill: This is David :pill: :pill:
 
 [![Linkedin Badge](https://img.shields.io/badge/-davidalexisge-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davidalexisge/)](https://www.linkedin.com/in/davidalexisge/) 
@@ -52,6 +52,9 @@ Pursuing a Master's degree in Artificial Intelligence (MNA-V ITESM). My goal is 
      <a href="https://www.credly.com/badges/267bb300-f9dd-4332-869c-4e222ef60f44"><img src="https://images.credly.com/size/680x680/images/9610ae19-72a4-4873-86b5-355ad311cbba/Data_Analysis_final__1_.png" width="130"/> </a>
   <a href="https://www.credly.com/badges/267bb300-f9dd-4332-869c-4e222ef60f44/public_url
 "><img src="https://images.credly.com/size/340x340/images/c5d44d75-9370-43fa-92a6-63e48bb6564f/62056_badges_EducationTraining_Learn_Programming.png" width="110"/> </a>
+<a href="https://www.credly.com/badges/267bb300-f9dd-4332-869c-4e222ef60f44/public_url
+"><img src="https://images.credly.com/size/340x340/images/c5d44d75-9370-43fa-92a6-63e48bb6564f/62056_badges_EducationTraining_Learn_Programming.png" width="110"/> </a>
+
 </p>
 
 ## _Finance_
