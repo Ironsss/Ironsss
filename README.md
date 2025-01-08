@@ -28,6 +28,8 @@ As an early career data scientist, I have a strong background in extracting feat
 
 [Recommendation to pursue cloud certifification (GCP)](https://medium.com/javarevisited/10-best-google-cloud-certifications-to-aim-1ade11d9f01b)
 
+[Recommendation to pursue cloud certifification (AWS)](https://www.linkedin.com/pulse/which-aws-certification-exam-right-me-part-1-jon-bonso-lztec/)
+
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?width=700&lines=Hello+there,+I+am+David;+Welcome+to+My+Profile!;Machine+learning+learner)](https://git.io/typing-svg) <a href="https://www.researchgate.net/profile/David-Alexis-Garcia-Espinosa-2"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" width="140"/> </a> 
  
