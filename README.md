@@ -78,6 +78,8 @@ Pursuing a Master's degree in Artificial Intelligence (MNA-V ITESM). My goal is 
 
 [Exceltic: Inteligencia Artificial en la realidad empresarial: Casos de uso.](https://www.linkedin.com/events/inteligenciaartificialenlareali7013798963493408768/about/)
 
+[UNAM: Professor| Introduction to Data Science](https://www.fciencias.unam.mx/directorio/93391)
+
 [UNAM: Teaching Assitant| Linear algebra,Biostatistics,Mathematics for Biologyst](https://www.fciencias.unam.mx/directorio/93391)
 
 [H2O.ai: Impulsa tu Negocio al Siguiente Nivel: El Poder del Análisis Predictivo y las Soluciones Innovadoras](https://h2o.ai/events/webinar/impulsa-tu-negocio-al-siguiente-nivel-a10/#linkedin)
