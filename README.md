@@ -92,8 +92,7 @@ Pursuing a Master's degree in Artificial Intelligence (MNA-V ITESM). My goal is 
 
 [MisProfesores Evaluation](https://www.misprofesores.com/profesores/David-Alexis-Garcia-Espinosa_138010)
 
-
-
+[Uso de la Inteligencia Artificial para la Validación de Datos](https://www.linkedin.com/posts/davidalexisge_gobiernodedatos-calidaddedatos-validaciaejndedatos-activity-7343180811292065793-fqxC?utm_medium=ios_app&rcm=ACoAACQF_wgB_0Brvr3a2rUz67tRkOMiDkuod8o&utm_source=social_share_send&utm_campaign=copy_link)
 
 
 
