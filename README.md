@@ -54,6 +54,7 @@ Pursuing a Master's degree in Artificial Intelligence (MNA-V ITESM). My goal is 
   <a href="https://www.credly.com/badges/267bb300-f9dd-4332-869c-4e222ef60f44/public_url
 "><img src="https://images.credly.com/size/340x340/images/c5d44d75-9370-43fa-92a6-63e48bb6564f/62056_badges_EducationTraining_Learn_Programming.png" width="110"/> </a>
 <a href="https://www.credly.com/badges/b7a28908-f9cf-4ae8-903a-5e018f9ecc3a"><img src="https://images.credly.com/size/680x680/images/916bde6c-7eb3-40da-b698-993bdc8231f5/image.png" width="110"/> </a>
+<a href="https://www.credly.com/badges/b7a28908-f9cf-4ae8-903a-5e018f9ecc3a"><img src="https://images.credly.com/size/680x680/images/916bde6c-7eb3-40da-b698-993bdc8231f5/image.png" width="110"/> </a>
 </p>
 
 ## _Finance_
