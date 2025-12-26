@@ -63,6 +63,7 @@ Pursuing a Master's degree in Artificial Intelligence (MNA-V ITESM). My goal is 
   <a href="https://certificados.tec.mx/certificate/2791287d86fd5bd0a3ab8c2369900c78
     "><img src="https://cdn.freebiesupply.com/logos/thumbs/2x/tec-de-monterrey-4-logo.png" width="160"/> </a>
  </p>
+ 
 ## _Finance Diplomas_
 
 <p align="center">
