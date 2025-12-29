@@ -149,7 +149,7 @@ I have a strong background in **feature extraction from images** and **statistic
   Solución para el Challenge Aeroespacial (Cyber AI 2021).  
   https://github.com/Ironsss/Aeroespacial_CyberAI2021
 
-- 🧠 **CNN para MRI — Proyecto Final BEDU**  
+- 🧠 **CNN para MRI — Proyecto Final BEDU 2021 (Certification)**  
   Clasificación de resonancia magnética: tumor vs sano.  
   https://github.com/Ironsss/Proyecto-Final-BEDU
 ---
