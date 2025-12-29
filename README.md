@@ -136,3 +136,20 @@ I have a strong background in **feature extraction from images** and **statistic
 
 - [Google Cloud certifications (GCP)](https://medium.com/javarevisited/10-best-google-cloud-certifications-to-aim-1ade11d9f01b)
 - [AWS certification guidance](https://www.linkedin.com/pulse/which-aws-certification-exam-right-me-part-1-jon-bonso-lztec/)
+
+---
+
+## Featured Projects
+
+- 🏆 **Rest-Mex 2025 — FisBio UNAM (IberLEF 2025)**  
+  Multitask NLP para reseñas turísticas en español (Pueblos Mágicos).  
+  https://github.com/Ironsss/Rest-Mex-2025-FisBio_UNAM
+
+- 🛰️ **Aeroespacial CyberAI 2021 (Hackathon)**  
+  Solución para el Challenge Aeroespacial (Cyber AI 2021).  
+  https://github.com/Ironsss/Aeroespacial_CyberAI2021
+
+- 🧠 **CNN para MRI — Proyecto Final BEDU**  
+  Clasificación de resonancia magnética: tumor vs sano.  
+  https://github.com/Ironsss/Proyecto-Final-BEDU
+---
