@@ -65,6 +65,32 @@ I have a strong background in **feature extraction from images** and **statistic
 - **Completed:** Master’s degree in **Applied Artificial Intelligence (MNA-V, ITESM)** — focused on impactful research and **responsible AI**.
 
 ---
+### Master Degree — Applied Artificial Intelligence (ITESM)
+
+<p align="center">
+  <a href="https://certificados.tec.mx/certificate/2791287d86fd5bd0a3ab8c2369900c78">
+    <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/tec-de-monterrey-4-logo.png" width="160" />
+  </a>
+</p>
+
+### Finance Diplomas
+
+<p align="center">
+  <a href="https://www.credential.net/7695d00f-e7de-49a5-8357-4d32393caf79?record_view=true#gs.wl57gl">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Escudo_IPADE.png" width="160" />
+  </a>
+  <a href="https://www.credential.net/a9322706-3cdf-4538-a915-7384cd93d7a3">
+    <img src="https://javier.rodriguez.org.mx/itesm/2014/tecnologico-de-monterrey-blue.png" width="195" />
+  </a>
+</p>
+
+### Digital Transformation Diplomas
+
+<p align="center">
+  <a href="https://digitalcredential.stanford.edu/check/D0A7E0097EC8AABAA86FBC734206794BED0E93BF6762174E0196CC03B096EFD0Q0Zadm8zSis4eGpSaWtJMHg3MWt5TGlpa1NZK3Vqdk1uVmpxWlNqSldVZW1oc3lp">
+    <img src="https://lcimexico.org/wp-content/uploads/2024/08/CGOE-primary-logo.png" width="250" />
+  </a>
+</p>
 
 ## Certifications & Badges
 
@@ -92,33 +118,6 @@ I have a strong background in **feature extraction from images** and **statistic
   </a>
   <a href="https://www.credly.com/badges/d9b8fbfd-35e5-4266-a4f5-45ae50ae8631">
     <img src="https://images.credly.com/size/680x680/images/29d7d345-9cbc-4c5e-8130-d21e10b5d70f/blob" width="110" />
-  </a>
-</p>
-
-### Master Degree — Applied Artificial Intelligence (ITESM)
-
-<p align="center">
-  <a href="https://certificados.tec.mx/certificate/2791287d86fd5bd0a3ab8c2369900c78">
-    <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/tec-de-monterrey-4-logo.png" width="160" />
-  </a>
-</p>
-
-### Finance Diplomas
-
-<p align="center">
-  <a href="https://www.credential.net/7695d00f-e7de-49a5-8357-4d32393caf79?record_view=true#gs.wl57gl">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Escudo_IPADE.png" width="160" />
-  </a>
-  <a href="https://www.credential.net/a9322706-3cdf-4538-a915-7384cd93d7a3">
-    <img src="https://javier.rodriguez.org.mx/itesm/2014/tecnologico-de-monterrey-blue.png" width="195" />
-  </a>
-</p>
-
-### Digital Transformation Diplomas
-
-<p align="center">
-  <a href="https://digitalcredential.stanford.edu/check/D0A7E0097EC8AABAA86FBC734206794BED0E93BF6762174E0196CC03B096EFD0Q0Zadm8zSis4eGpSaWtJMHg3MWt5TGlpa1NZK3Vqdk1uVmpxWlNqSldVZW1oc3lp">
-    <img src="https://lcimexico.org/wp-content/uploads/2024/08/CGOE-primary-logo.png" width="250" />
   </a>
 </p>
 
