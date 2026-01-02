@@ -114,13 +114,11 @@ I have a strong background in **feature extraction from images** and **statistic
   </a>
 </p>
 
----
-
 ### Digital Transformation Diplomas
 
 <p align="center">
   <a href="https://digitalcredential.stanford.edu/check/D0A7E0097EC8AABAA86FBC734206794BED0E93BF6762174E0196CC03B096EFD0Q0Zadm8zSis4eGpSaWtJMHg3MWt5TGlpa1NZK3Vqdk1uVmpxWlNqSldVZW1oc3lp">
-    <img src="https://lcimexico.org/wp-content/uploads/2024/08/CGOE-primary-logo.png" width="160" />
+    <img src="https://lcimexico.org/wp-content/uploads/2024/08/CGOE-primary-logo.png" width="190" />
   </a>
 </p>
 
