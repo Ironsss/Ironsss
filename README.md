@@ -60,7 +60,7 @@ I have a strong background in **feature extraction from images** and **statistic
 | NLP aplicado                | NLP para señales de cliente/comportamiento (p. ej., word2vec affinity + clasificador de churn/attrition)                                                     |
 | Stack técnico               | Python, R, MATLAB, Linux; ML/DL, series de tiempo, NLP, computer vision, AutoML; fundamentos de MLOps                                                        |
 | Ejecución / delivery        | Roadmaps, levantamiento de requerimientos, documentación técnica, adopción y reducción de retrabajo                                                          |
-| Agile & herramientas        | JIRA, Confluence, Notion, SharePoint; priorización de backlog, requirements, OKRs                                                                            |
+| Agile & herramientas        | Salesforce, Confluence, Notion, SharePoint; priorización de backlog, requirements, OKRs                                                                            |
 | Stakeholders                | Manejo de stakeholders, scoping y mitigación de riesgos en contextos enterprise LATAM                                                                        |
 
 ---
