@@ -48,13 +48,20 @@ I have a strong background in **feature extraction from images** and **statistic
 ---
 
 ## Skills
-
-- Data analysis & interpretation  
-- Feature extraction (clinical + general images)  
-- Statistical modeling on unstructured data  
-- Machine learning & predictive modeling  
-- Data visualization & communication  
-- Collaborative problem-solving  
+| Área                        | Skills                                                                                                                     |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Analytics & impacto         | Analytics y generación de insights orientados a KPI/ROI; liderazgo de portafolio                                                                             |
+| GenAI / Conversational AI   | Diseño y delivery de soluciones agentic/conversational AI para clientes enterprise (retail/CPG y financial services)                                         |
+| Decisioning & orchestration | Pipelines de decisión y orquestación: order orchestration, recomendaciones en tiempo real, segmentación dinámica, triage de tickets, elegibilidad de crédito |
+| Operaciones & antifraude    | Automatización de servicing y fraude: triggers de escalamiento, mejoras de eficiencia operativa y TTR (time-to-resolution)                                   |
+| PoC/MVP & preventa          | Desarrollo de PoC/MVP de ML/GenAI alineados a KPIs de negocio y soporte a deals enterprise                                                                   |
+| Optimización & gobernanza   | Optimización de modelos/pipelines con enfoque en precisión + reducción de tiempos y gobernanza                                                               |
+| Data engineering & cloud    | Optimización de ETL, reducción de runtimes y optimización de costos cloud (Azure)                                                                            |
+| NLP aplicado                | NLP para señales de cliente/comportamiento (p. ej., word2vec affinity + clasificador de churn/attrition)                                                     |
+| Stack técnico               | Python, R, MATLAB, Linux; ML/DL, series de tiempo, NLP, computer vision, AutoML; fundamentos de MLOps                                                        |
+| Ejecución / delivery        | Roadmaps, levantamiento de requerimientos, documentación técnica, adopción y reducción de retrabajo                                                          |
+| Agile & herramientas        | JIRA, Confluence, Notion, SharePoint; priorización de backlog, requirements, OKRs                                                                            |
+| Stakeholders                | Manejo de stakeholders, scoping y mitigación de riesgos en contextos enterprise LATAM                                                                        |
 
 ---
 ## What I’m working on
