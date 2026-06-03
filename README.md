@@ -41,6 +41,7 @@ I have a strong background in **feature extraction from images** and **statistic
   <img src="https://cdn.icon-icons.com/icons2/273/PNG/256/icon_sql_256_30046.png" alt="SQL" height="35"/>
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="Git" height="35"/>
   <img src="https://cdn.icon-icons.com/icons2/2667/PNG/512/folder_latex_tex_icon_161289.png" alt="LaTeX" height="35"/>
+  <img src="https://cdn.prod.website-files.com/64dc6871ffef202bc75b418a/69458650f450b509d605fb4f_ic1IrXFJD3pRuWr8qgBKwthw6DUviUMAQcENHY0mnHM.png" alt="Yalo" height="35"/>
   <img src="https://cdn.icon-icons.com/icons2/70/PNG/512/ubuntu_14143.png" alt="Ubuntu" height="35"/>
   <img src="https://h2o.ai/content/experience-fragments/h2o/us/en/site/header/master/_jcr_content/root/container/header_copy/logo.coreimg.svg/1700170415898/h2o-logo.svg" alt="H2O.ai" height="35"/>
 </p>
