@@ -30,29 +30,6 @@ I analyze complex datasets to identify trends and deliver actionable insights th
 
 I have a strong background in **feature extraction from images** and **statistical modeling on unstructured data**, with experience implementing machine learning models for labeled/unlabeled data to support better business decisions.
 
-lllllllllllhhhhhhhhhkhhhhhhhhhkkkkk
-lllllllllhhhhhhhjjm#W%%#jjgkhhhkkkk
-lllllllhhhhhhhkgMM@@@@@@@@@%jhhkkkk
-lllllhhhhhhkj#M@@@@@@@@M%WM@Mgkhkkkk
-llllhhhhhhkjW@@@N*==++;,',+kW@#hkkkk
-llhhhhhhkkkmM@N*:'."``"..',=%@ghkkkk
-lhhhhhkkkkjm@@l,,'."".""',,,g@Nhkkkj
-hhhhkkkkjjjmMMlllll:. '=*lllh@#hkkkj
-hhhkkkkjjjmm%#;=**l=;".;+l**+,#ghkkj
-hhkkkkjjjjmm#k,+=;;;+,,+:::;:'jjkkkj
-hkkkkjjjjmmmgh,'...,;.';,""""'ljkkjj
-kkkkkjjjjmmmgl:."`":=,:=:"`".:*kkkjj
-kkkjjjjmmmmggm+'",=lh*;kl;..';jjkjjj
-kkjjjjmmmmmgg#j;:hl=+;;++;+=:hmjkjjj
-kjjjjmmmmmgggg#gk*'".:+'..;m#WNmkjjj
-jjjjmmmmmggg#%WMW%ml+;+;=k%%mW@MW%#j
-jjjmmmmg#NWM@@W%#hg%%WW%N#h=jM@@@@@M
-jjjmg%W@@@@@@@WNWm+,:;;::+hg%@@@@@@@
-jjmW@@@@@@@@@@@@@@%l,":j%@@@@@@@@@@@
-jmM@@@@@@@@@@@@@@@@%;+%@@@@@@@@@MMM@
-jW@@@@@@@@@@@@@@@@@@h%@@@@@@@MMMM@@@
-#@@@@@@@@@@@@@@@@@@@M@@@@@@MWWWW@M@@
-M@@@@@@@@@@@@@@@@@@@@M@@MMMWWWWW@M@@
 ---
 
 ## Tech & Tools
